@@ -28,3 +28,7 @@ The vision of this project is to empower individuals to manage their reading jou
 - **Remove Books:** Users can remove books from their list if they no longer wish to track them.
 - **Decentralized & Secure:** The user's data is securely stored on the blockchain, ensuring that the reading history remains immutable and transparent.
 
+## Contract Address: 0x5223Ab296089B99E2Cf5fdD32DCE14E70286D748
+
+![image](https://github.com/user-attachments/assets/35ba673e-4770-45bc-8994-c8470952c6f6)
+
