@@ -32,3 +32,7 @@ The vision of this project is to empower individuals to manage their reading jou
 
 ![image](https://github.com/user-attachments/assets/35ba673e-4770-45bc-8994-c8470952c6f6)
 
+##frontend
+![image](https://github.com/user-attachments/assets/8f0b9ab3-f5e3-42e2-9aff-4e2247318c60)
+
+
