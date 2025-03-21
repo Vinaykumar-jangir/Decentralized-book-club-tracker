@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book Club Tracker</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">Book Club Tracker</h1>
+
+        <!-- Add a new book form -->
+        <div class="form-container">
+            <h2>Add a New Book</h2>
+            <form id="add-book-form">
+                <input type="text" id="title" placeholder="Book Title" required>
+                <input type="text" id="author" placeholder="Author" required>
+                <input type="text" id="genre" placeholder="Genre" required>
+                <input type="number" id="yearPublished" placeholder="Year Published" required>
+                <button type="submit">Add Book</button>
+            </form>
+        </div>
+
+        <!-- Book list -->
+        <div class="book-list">
+            <h2>Your Books</h2>
+            <ul id="book-list"></ul>
+        </div>
+        
+        <!-- Mark book as read -->
+        <div class="mark-read">
+            <h2>Mark Book as Read</h2>
+            <input type="text" id="book-title-to-mark" placeholder="Book Title" required>
+            <button id="mark-read-btn">Mark as Read</button>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/web3@1.6.1/dist/web3.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
